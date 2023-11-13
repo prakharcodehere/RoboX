@@ -1,0 +1,25 @@
+[{
+    "id": 0,
+"name": "Automation",
+"image": "delivery.png"
+
+
+},{
+
+    "id": 1,
+"name": "Artificial intellegence",
+"image": "artificial-intelligence.png"
+
+
+},{
+    "id": 2,
+    "name": "ChatBot",
+    "image": "chatbot (1).png"
+
+
+},{
+    "id": 3,
+    "name": "Survelliance drone",
+    "image": "drone.png"
+
+}]

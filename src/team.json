@@ -1,0 +1,15 @@
+[{
+    "id":0,
+    "name":"Prakhar",
+    "description": "Front-end Developer",
+    "image": "man.png"
+
+},{"id":0,
+"name":"Sofia",
+"description": "Machine learning",
+"image": "woman.png"},
+
+{"id":0,
+"name":"Alex",
+"description": "Backend Developer",
+"image": "detective.png"}]

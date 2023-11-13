@@ -1,0 +1,36 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    margin: 10px 20px 20px 10px;
+    width: 150px;
+    height: 200px;
+    background: rgba(202, 202, 202, 0.2);
+    border-radius: 10px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(3.7px);
+    -webkit-backdrop-filter: blur(2.4px);
+    border: 1px solid rgba(255, 255, 255, 0.19);
+}
+
+.imgWrapper{
+    height: 150px;
+    width: auto;
+    object-fit: cover;
+}
+
+.imgWrapper img{
+    margin-left: 20px;
+    margin-top: 12px;
+    height: 100px;
+    width: auto;
+
+    
+}
+
+.heading{
+    text-align: center;
+    font-size: 16px;
+    font-weight: 500;
+    
+
+}
